@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+.container{
+    min-height: 350px;
+}
+.box{
+    margin-bottom: 10px;
+    height: 100px;
+    background-color: #0d4d6c ;
+}
+.h_350{
+    height: 350px;
+}
